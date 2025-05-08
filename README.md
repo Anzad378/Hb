@@ -83,12 +83,10 @@ just tap the fork to fork and star ✨ button to give star ⭐ this repository
 ---
 
 ## 🌐 **Connect With Us**
-<p align="center">
-  <a href="https://davincs-online.netlify.app">
-    <img src="https://img.shields.io/badge/OFFICIAL_WEBSITE-1BAFBA?style=for-the-badge&logo=google-chrome&logoColor=white" width="220">
-  </a>
-  <a href="mailto:support@davincs.com">
-    <img src="https://img.shields.io/badge/📧_EMAIL_SUPPORT-FF6347?style=for-the-badge&logo=mail.ru&logoColor=white" width="220">
+
+    
+
+    <imsrc="https://img.shields.io/badge/📧_EMAIL_SUPPORT-FF6347?style=for-the-badge&logo=mail.ru&logoColor=white" width="220">
   </a>
 </p>
 
