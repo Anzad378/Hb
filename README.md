@@ -11,10 +11,11 @@
 
 <p align="center">
   <img src=![InShot_20250508_222954124](https://github.com/user-attachments/assets/83f2fb54-5483-4a7c-9ce3-c9de0ee645b4)
-![Screenshot_20250508-225938](https://github.com/user-attachments/assets/9c716ca4-c50d-4b1e-902d-1dd4bbf591a7)
 
 
 
+
+![Uploading Screenshot_20250508-225938.png…]()
 
 ="ANZAD-MD Banner" width="700" style="b![InShot_20250508_222954124])
 order-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
