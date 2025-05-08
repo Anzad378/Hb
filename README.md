@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/xbrltv.jpg" alt="DAVINCS-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
+  <img src="https://files.catbox.moe/xbrltv.jpg" alt="ANZAD-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
 </p>
 
 
@@ -19,7 +19,7 @@
 ## 🎥 **Video Introduction**
 <div align="center">
   
-[![DAVINCS-MD Demo Video](https://img.shields.io/badge/▶️-WATCH_INTRO_VIDEO-FF0000?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+[![ANZAD-MD Demo Video](https://img.shields.io/badge/▶️-WATCH_INTRO_VIDEO-FF0000?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
   
 *Click the button above to see DAVINCS-MD in action!*
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🔥 **Why Choose DAVINCS-MD?**
+## 🔥 **Why Choose ANZAD-MD?**
 <div align="center">
   
 | Feature | Description |
