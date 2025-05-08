@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=3500&pause=800&color=FF6347&center=true&width=900&height=80&lines=YOUR+ULTIMATE+WHATSAPP+SOLUTION;POWERED+BY+DAVINCS+TECH;UNMATCHED+SPEED+AND+RELIABILITY;START+EXPERIENCING+TODAY!" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=3500&pause=800&color=FF6347&center=true&width=900&height=80&lines=YOUR+ULTIMATE+WHATSAPP+SOLUTION;POWERED+BY+ANZAD+TECH;UNMATCHED+SPEED+AND+RELIABILITY;START+EXPERIENCING+TODAY!" alt="Typing Animation"/>
   </a>
 </p>
 
