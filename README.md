@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <img src=![InShot_20250508_222954124](https://github.com/user-attachments/assets/8844312d-636c-4790-af60-a1435f006515)
+  <img src=![InShot_20250508_222954124](https://github.com/user-attachments/assets/83f2fb54-5483-4a7c-9ce3-c9de0ee645b4)
+
 
 ="ANZAD-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
 </p>
