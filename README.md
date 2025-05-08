@@ -13,7 +13,8 @@
   <img src=![InShot_20250508_222954124](https://github.com/user-attachments/assets/83f2fb54-5483-4a7c-9ce3-c9de0ee645b4)
 
 
-="ANZAD-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
+="ANZAD-MD Banner" width="700" style="b![InShot_20250508_222954124](https://github.com/user-attachments/assets/c2265d11-7976-4f15-b136-384c080e91c8)
+order-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
 </p>
 
 
