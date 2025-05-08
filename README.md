@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src=" alt![InShot_20250508_222954124](https://github.com/user-attachments/assets/0f61ee7c-4cb8-45da-861e-6176675357c9)
+  <img src="https://github.com/user-attachments/assets/0f61ee7c-4cb8-45da-861e-6176675357c9 alt![InShot_20250508_222954124](https://github.com/user-attachments/assets/0f61ee7c-4cb8-45da-861e-6176675357c9)
 ="ANZAD-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
 </p>
 
