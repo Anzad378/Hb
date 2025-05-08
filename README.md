@@ -86,9 +86,9 @@ just tap the fork to fork and star ✨ button to give star ⭐ this repository
 
     
 
-    <imsrc="https://img.shields.io/badge/📧_EMAIL_SUPPORT-FF6347?style=for-the-badge&logo=mail.ru&logoColor=white" width="220">
-  </a>
-</p>
+  
+  
+
 
 ---
 
