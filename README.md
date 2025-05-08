@@ -87,9 +87,8 @@ just tap the fork to fork and star ✨ button to give star ⭐ this repository
     
 
   <a href="https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i>
-  <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-  
+  https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i
+
 
 
 ---
