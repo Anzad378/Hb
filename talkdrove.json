@@ -1,12 +1,12 @@
 
 
 {
-  "bot-name": "✧⁠DAVINCS_MD✧ MULT DEVICE BOT",
-  "description": "Davincs Whatsapp device bot made by Allan@Davincs to help Whatsapp users to enjoy while helping...",
+  "bot-name": "✧ANZAD_MD✧ MULT DEVICE BOT",
+  "description": "ANZAD Whatsapp device bot made by Allan@Davincs to help Whatsapp users to enjoy while helping...",
   "logo": "https://files.catbox.moe/7irwqn.jpeg",
-  "keywords": ["Allan-Davincs", "Davincs-Md", "mdtech"],
+  "keywords": ["ANZAD", "ANZAD-Md", "mdtech"],
   "documentation-link": "https://fredietech.onrender.com",
-  "owner-verification":"allandavincs89@gmail.com",
+  "owner-verification":"anzadibayana@gmaili.com",
   "env": {
     "PREFIX":
     {
@@ -73,7 +73,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "✧⁠DAVINCS_MD✧",
+      "value": "✧ANZAD_MD✧",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -98,7 +98,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "Allan@Davincs",
+      "value": "anzad",
       "required": false
     },
     "URL": {
@@ -113,7 +113,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "value": "255654667145",
       "required": false
     },
     "WARN_COUNT": {
