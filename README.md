@@ -51,12 +51,13 @@
 
 ---
 
+
 ## 🚀 **3-Step Deployment**
 <div align="center">
 
 ### 1️⃣ **Fork & Star**
-[![Fork](https://img.shields.io/github/forks/Anzad378/Hb.git?label=FORK&style=social&logo=git&logoColor=white)](https://github.com/Anzad378/Hb.git/fork)
-[![Star](https://img.shields.io/github/stars/https://github.com/Anzad378/Hb.git?label=STAR&style=social&logo=github)](https://github.com/Anzad378/Hb.git)
+[![Fork](https://img.shields.io/github/forks/9Wish882/DAVINCS-MD?label=FORK&style=social&logo=git&logoColor=white)](https://github.com/9Wish882/DAVINCS-MD/fork)
+[![Star](https://img.shields.io/github/stars/9Wish882/DAVINCS-MD?label=STAR&style=social&logo=github)](https://github.com/9Wish882/DAVINCS-MD)
 
 just tap the fork to fork and star ✨ button to give star ⭐ this repository 
 
