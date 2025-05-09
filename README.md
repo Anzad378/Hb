@@ -84,8 +84,8 @@ just tap the fork to fork and star ✨ button to give star ⭐ this repository
 
 📱CONTACT WITH ANZAD-MD
 <p align="center">
-  <a href="https://wa.me/qr/V2LOTVUSN252J1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://wa.me/qr/V2LOTVUSN252J1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://wa.me/255654667145"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://wa.me/255654667145"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a 
 
 ---
