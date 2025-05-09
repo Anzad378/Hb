@@ -14,10 +14,10 @@
 
 
 
+![InShot_20250508_222954124](https://github.com/user-attachments/assets/a3c7dfac-86d5-4781-831c-4066eaf0e1ac)
 
 
 
-![Screenshot_20250508-225938](https://github.com/user-attachments/assets/b9503156-457f-47b8-a596-8f26407ba7ff)
 
 
 
