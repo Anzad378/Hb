@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <img src=![InShot_20250508_222954124](https://github.com/user-attachments/assets/83f2fb54-5483-4a7c-9ce3-c9de0ee645b4)
+  <img src=![![InShot_20250508_222954124](https://github.com/user-attachments/assets/64d3c44f-9a4f-4ee9-b8e7-c572cc6307fc)
+)
 
 
 
