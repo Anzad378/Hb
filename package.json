@@ -1,6 +1,6 @@
 
  {
-  "name": "DAVINCS_MD",
+  "name": "ANZAD_MD",
   "version": "1.0.0",
   "description": "",
   "main": "control.js",
@@ -15,12 +15,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Davincs-Md",
+    "Anzad-Md",
     "whatsapp",
     "whatsapp-bot",
-    "allan@Davincs"
+    "anzad"
    ],
-  "author": "allan@davincs",
+  "author": "ANZAD_MD",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
