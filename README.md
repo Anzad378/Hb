@@ -43,7 +43,11 @@
 ---
 
 ## 📊 **GitHub Stats**
-
+<p align="center">
+  <a href="https://github.com/9Wish882/DAVINCS-MD">
+    <img src="https://github-readme-stats.vercel.app/api?username=9Wish882&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=9Wish882&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400"/>
+  </a>
 
 ---
 
