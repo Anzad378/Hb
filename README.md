@@ -43,10 +43,7 @@
 ---
 
 ## 📊 **GitHub Stats**
-<a href="https://github.com/Anzad378/Hb.git/fork">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anzad378&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400"/>
-  </a>
-</p>
+
 
 ---
 
