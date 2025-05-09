@@ -46,7 +46,7 @@
 <p align="center">
   <a href="https://github.com/Anzad378/Hb.git">
     <img src="https://github-readme-stats.vercel.app/api?username=Anzad378&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" width="400"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=9Wish882&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anzad378&theme=dark&fire=FF6347&currStreakNum=1BAFBA" alt="Streak Stats" width="400"/>
   </a>
 
 ---
