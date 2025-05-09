@@ -1,6 +1,6 @@
 {
-  "name": "✧⁠𝐃𝐀𝐕𝐈𝐍𝐂𝐒_𝐌𝐃✧ MULT DEVICE BOT",
-  "description": "Davincs Whatsapp device bot made by Allan@Davincs to enable a user to use whatsapp with more powerful features..",
+  "name": "✧ANZAD_MD✧ MULT DEVICE BOT",
+  "description": "ANZAD Whatsapp device bot made by ANAZAD_MD to enable a user to use whatsapp with more powerful features..",
   "keywords": [
     "bot",
     "node",
@@ -8,7 +8,7 @@
     "whatsapp"
   ],
   "logo": "https://files.catbox.moe/oc5rvp.jpg",
-  "repository": "https://github.com/9Wish882/DAVINCS-MD",
+  "repository":"https://github.com/Anzad378/Hb.git",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -76,7 +76,7 @@
     },
     "BOT_NAME": {
       "description": "you must name your bot huh!!!!!!",
-      "value": "✧𝐃𝐀𝐕𝐈𝐍𝐂𝐒-𝐌𝐃✧",
+      "value": "✧ANZAD-𝐌𝐃✧",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -101,7 +101,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "𝐀𝐥𝐥𝐚𝐧#𝐃𝐚𝐯𝐢𝐧𝐜𝐬⚡",
+      "value": "ANZAD_MD⚡",
       "required": false
     },
     "URL": {
@@ -116,7 +116,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255759637644",
+      "value": "25554667145",
       "required": false
     },
     "WARN_COUNT": {
