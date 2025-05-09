@@ -56,8 +56,8 @@
 <div align="center">
 
 ### 1️⃣ **Fork & Star**
-[![Fork](https://img.shields.io/github/forks/9Wish882/DAVINCS-MD?label=FORK&style=social&logo=git&logoColor=white)](https://github.com/9Wish882/DAVINCS-MD/fork)
-[![Star](https://img.shields.io/github/stars/9Wish882/DAVINCS-MD?label=STAR&style=social&logo=github)](https://github.com/9Wish882/DAVINCS-MD)
+[![Fork](https://img.shields.io/github/forks/Anzad378/Hb.git?label=FORK&style=social&logo=git&logoColor=white)](https://github.com/Anzad378/Hb.git/fork)
+[![Star](https://img.shields.io/github/stars/9Wish882/DAVINCS-MD?label=STAR&style=social&logo=github)](https://github.com/Anzad378/Hb.git)
 
 just tap the fork to fork and star ✨ button to give star ⭐ this repository 
 
@@ -73,18 +73,11 @@ just tap the fork to fork and star ✨ button to give star ⭐ this repository
 
 ---
 
-## 🎯 **Features Showcase**
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_CHAT-FF6347?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/STICKER_MAKER-1BAFBA?style=for-the-badge&logo=stickermule&logoColor=white">
-  <img src="https://img.shields.io/badge/MUSIC_DOWNLOADER-9400D3?style=for-the-badge&logo=deezer&logoColor=white">
-  <img src="https://img.shields.io/badge/GAME_MODULES-00FF00?style=for-the-badge&logo=gamejolt&logoColor=white">
-  <img src="https://img.shields.io/badge/ADMIN_TOOLS-FF0000?style=for-the-badge&logo=adminer&logoColor=white">
-</p>
+
 
 ---
 
-## 🌐 **Connect With ANZAD-MD **
+## 🌐 CONTACT WITH ANZAD-MD 
 
   <a href="https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i">
   <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
