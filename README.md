@@ -75,13 +75,17 @@ just tap the fork to fork and star ✨ button to give star ⭐ this repository
 
 ---
 
-## 🌐 CONTACT WITH ANZAD-MD 
+## 🌐 SUPPORT GROUP ANZAD-MD 
 
   <a href="https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i">
   <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
-
+📱CONTACT WITH ANZAD-MD
+<p align="center">
+  <a href="https://wa.me/qr/V2LOTVUSN252J1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://wa.me/qr/V2LOTVUSN252J1"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a 
 
 ---
 
